@@ -33,11 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="NachoOperaMyD">
-      <HintPath>..\..\NachoOperaMyD\NachoOperaMyD\bin\Debug\NachoOperaMyD.dll</HintPath>
-    </Reference>
-    <Reference Include="NachoOperaSyR">
-      <HintPath>..\..\NachoOperaSyR\NachoOperaSyR\bin\Debug\NachoOperaSyR.dll</HintPath>
+    <Reference Include="NachoOperaMyD, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\NachoOperaMyD\NachoOperaMyD\bin\Debug\NachoOperaMyD.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
